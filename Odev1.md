@@ -2,12 +2,13 @@
 
 Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+Sınıf  | Öğrenci İsmi           | Numara
+-------|------------------------|--------
+9-C    | Şevval Polat           | 646
+9-C    | Zeynep Zeren Karayiğit | 632
+9-C    | Göksu Darcan           | 637
 
-#  (buraya proje başlığını yazınız)
+#  CURIE POINT ENGINE 
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
