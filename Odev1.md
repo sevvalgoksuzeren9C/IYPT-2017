@@ -1,22 +1,22 @@
 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-10-A  | Beyza Nur Azbaz | 380
-10-A   | Ayşe Yakar | 451
-10-A   | Muhammet Ali Ağırman | 425
+*Sınıf  | Öğrenci İsmi           | Numara
+---------|------------------------|--------
+*9-C    | Şevval Polat           | 646
+9-C    | Zeynep Zeren krayiğit  | 632
+9-C    | Göksu Darcan           | 637 
 
-#  Photograph of a Television Screen
-## Özet
- Öncelikle bizim takım olarak seçtiğimiz proje 1991 yılından olan 'Photograph of a Television Screen' sorusudur. Amacımız sahip olduğumuz bir fotoğraf makinesinin shutter (fotoğraf makinesi kapağı) hızını ve exposure time'ını (poz süresi) hesaplamaktır.
- Shutter bir fotoğraf makinesinin fotoğraf  çekerken açılıp kapanan kapağıdır. Exposure time ise fotoğraf çekerken fotoğraf makinesinin ışık aldığı süredir. 
- Seçtiğimiz bu soruyu yaparken fotoğraf makinesi ve bir videodan yararlanacağız. Fotoğraf makinesini hızlı çekime alıp videonun fotoğraflarını çekeceğiz. Videonun süresi ve çektiğimiz fotoğraf sayısından, fotoğraf makinemizin shutter hızını hesaplayacağız. Exposure time'ı ise fotoğraf makinesini fotoğraf çekerken videoya alarak hesaplayacağız. Fotoğraf çekerken makinenin kapağının kapanmasına kadar geçen süre bize fotoğraf makinemizin ışık alma süresini verecek.
+#  *CURIE POINT ENGINE 
+## *Özet
+  *Curie Point veya diğer adıyla Curie Temperature bir tür ısı motorudur ve adını Fransız fizikçi Pierre Curie'den alır.Pierre Curie,1895 yılında bazı manyetik özelliklerin ısıya dönüşmesiyle ilgili kanunları keşfetmiştir.Curie Point Engine,Curie tarafından keşfedilen manyetizma prensiplerinden yararlanılarak oluşturulur.
+  Nikel tel ile mıknatıs belli bir düzenek ile sabitlenir.Ve aralarına ısı kaynağı(mum) konur. Nikel tel bir süre sonra ısınır ve manyetikliğini  kaybeder.
+  Ferromanyetik maddeler, bağıl manyetik geçirgenlikleri 1'den çok büyük olan maddelerdir. Sadece demir, nikel ve kobalt oda sıcaklığında ferromanyetiktir.Yeterli termal enerji olduğunda ise  nikel, demir veya kobalt gibi ferromanyetik malzemeleri mıknatısa çekilir kılan elektron uyumu ortadan kaybolur.Ve bu değişimin olduğu sıcaklığa 'Curie Point' veya 'Curie Sıcaklığı' denir.(Curie sıcaklığı, bir malzemenin öz manyetik momentlerinin yön değiştirdiği kritik noktadır.)Örneğin Demirin(Fe) Curie Point ölçüsü 1043K ,Kobaltın(Co) 1388K iken Nikelin(Ni) Curie Point ölçüsü 627K'dir.627K yaklaşık olarak 354°C'ye eşdeğerdir.Yani bir mum alevi  yeterli ısı kaynağı olacaktır.Basit ama zarif bir mekanizma  bu duruma güzel bir örnek olacaktır.Biz de bu cihazı oluştururken gözlemin daha erken tamamlanabilmesi ve anlaşılır olması için nikelden faydalanacağız.
 
+  
 
-## Kaynakçalar  
+## *Kaynakçalar  
+     1.https://www.nhn.ou.edu/~johnson/Education/Juniorlab/Magnetism/2013F-CuriePoint.pdf
+     2.http://aapt.scitation.org/doi/abs/10.1119/1.4868949?journalCode=pte
+     3.George Barnes, “Rotary Curie-point heat engine,” Phys. Teach. 24, 204 (April 1986)
+     4.George Barnes, “Demonstrating the Curie point in nickel,” Phys. Teach. 24, 86 (Feb. 1986)
 
- 1. Hiscocks, Peter D. “Measuring Camera Shutter Speed”. Ryerson University. 
-https://www.ee.ryerson.ca/~phiscock/astronomy/light-pollution/shutter-cal.pdf
- Son Erişim Tarihi: 24 Mayıs 2010
- 2. https://www.youtube.com/watch?v=gL8YAoJFzkg&t=110s
- 3. Jacobson, R.E. 2000. The Manual of Photography: Photographic and Digital Imaging (9. Baskı). Oxford, UK: Focal Press.
